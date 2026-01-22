@@ -1,0 +1,12 @@
+{
+  "name": "DoviE -Soluttions POS",
+  "short_name": "DoviE",
+  "description": "Professional AI-Powered Point of Sale System",
+  "display": "standalone",
+  "theme_color": "#0f172a",
+  "background_color": "#f8fafc",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
